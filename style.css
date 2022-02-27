@@ -6,7 +6,7 @@ body{
 body{
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    height: 150vh;
     margin: 0;
     /* border: 1px solid black; */
 }
